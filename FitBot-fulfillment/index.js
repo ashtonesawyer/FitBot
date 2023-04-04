@@ -33,11 +33,13 @@ exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, resp
     url: 'https://exercises-by-api-ninjas.p.rapidapi.com/v1/exercises',
     params: {name: '', type: '', muscle: '', difficulty: '', offset: 0},
     headers: {
-      'X-RapidAPI-Key': '169e53ce5cmsh0acd1fb675f4788p1f97ddjsnd0ef5d209628',
+      'X-RapidAPI-Key': 'add-API-key-here',
       'X-RapidAPI-Host': 'exercises-by-api-ninjas.p.rapidapi.com'
     }
   };
 
+  // takes int (days) and duration {time: int, unit: 'str'} (chunk)
+  // to calculate how many workouts would be done in a 4 week period
   const freqToNumWorkouts = (days, chunk) => {
     let multiplier;
     
@@ -60,6 +62,7 @@ exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, resp
     return Math.ceil(days * multiplier);
   };
   
+  // converts duration to minutes (int)
   const toMins = time => {
     if (time.unit === 'min') return time.amount;
     else if (time.unit === 'h') return time.amount * 60;
@@ -67,6 +70,7 @@ exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, resp
     else return 200;
   };
   
+  // gives workout plan advise based on given information
   function plan(agent) {
     const lvl = agent.parameters.difficulty;       // op
     const days = agent.parameters.days;            // req
@@ -153,6 +157,7 @@ exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, resp
     agent.add(output);
   }
   
+  // converts split (str) to list of muscles targeted in that split
   const splitToMuscle = split => {
     let muscles = [];
     if (split === 'push') {
@@ -187,6 +192,8 @@ exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, resp
     return Math.floor(Math.random() * num);
   };
   
+  // generates a single workout with warmup and cooldown
+  // assumes generally 10 mins / exercise
   function single(agent) {
     const lvl = agent.parameters.difficulty;
     let time = agent.parameters.time;
@@ -302,6 +309,7 @@ exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, resp
     });
   }
   
+  // takes exercise name and returns instructions for that exercise
   function howto(agent) {
     const name = agent.parameters.exercise;
     options.params.name = name;
@@ -319,6 +327,7 @@ exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, resp
     });
   }
   
+  // takes muscle name and returns exercises for that muscle
   function target(agent) {
     const muscle = agent.parameters.muscle;
     const split = agent.parameters.split;
