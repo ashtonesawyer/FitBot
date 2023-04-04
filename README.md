@@ -1,4 +1,14 @@
 # FitBot
+- [Overview](#overview)
+  - [Workout Plan](#workout-plan)
+  - [Single Workout](#single-workout)
+  - [How To](#how-to)
+  - [Targeting Exercises](#targeting-exercises)
+  - [Help](#help)
+- [Use](#use)
+- [Testing](#testing)
+- [Helpful Links](#helpful-links)
+--------------
 # Overview
 This is the interaction model and fulfillment of a Dialogflow virtual personal trainer. It is comprised of 2 main intents, Workout Plan and Single Workout, and 2 sub-intents, How To and Targeting Exercises. All of  the exercise information is retrieved from the Exercises API by API-Ninjas. For Winter 2023 CS466 - Voice Assistants.
 
