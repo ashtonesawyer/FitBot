@@ -1,0 +1,617 @@
+[
+  {
+    "id": "6efe83f9-501a-494b-9b9f-b665c0bd5b92",
+    "data": [
+      {
+        "text": "plan a ",
+        "userDefined": false
+      },
+      {
+        "text": "30 minute",
+        "meta": "@sys.duration",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cardio",
+        "meta": "@split",
+        "alias": "split",
+        "userDefined": true
+      },
+      {
+        "text": " workout",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d11b6ae3-9d07-4280-9266-7a3605c93f5e",
+    "data": [
+      {
+        "text": "shoulder",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": true
+      },
+      {
+        "text": " workout",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e08571e-e3b7-4710-bac1-55b548a23abe",
+    "data": [
+      {
+        "text": "i want to workout ",
+        "userDefined": false
+      },
+      {
+        "text": "1 hour",
+        "meta": "@sys.duration",
+        "alias": "time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "69c92621-d3f5-4e85-8fee-281ba82c958d",
+    "data": [
+      {
+        "text": "I want to work out ",
+        "userDefined": false
+      },
+      {
+        "text": "1 hour",
+        "meta": "@sys.duration",
+        "alias": "time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "333ee541-8757-456c-9013-6dbf766e62eb",
+    "data": [
+      {
+        "text": "i want an ",
+        "userDefined": false
+      },
+      {
+        "text": "hour",
+        "meta": "@sys.duration",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " long workout",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "790f2212-9f5a-4742-ba7e-9592bbbfd5ea",
+    "data": [
+      {
+        "text": "i want a ",
+        "userDefined": false
+      },
+      {
+        "text": "chest",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "back",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": true
+      },
+      {
+        "text": " workout",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "00795242-3741-43fb-90a5-56611a0547ac",
+    "data": [
+      {
+        "text": "i want a single workout",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47982223-ded1-401b-b97e-1a7314292885",
+    "data": [
+      {
+        "text": "Give me a workout that uses ",
+        "userDefined": false
+      },
+      {
+        "text": "cables",
+        "meta": "@equipment",
+        "alias": "equipment",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "dumbbells",
+        "meta": "@equipment",
+        "alias": "equipment",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b39ea601-6e82-417f-8b85-caa26aca99a1",
+    "data": [
+      {
+        "text": "Give me a ",
+        "userDefined": false
+      },
+      {
+        "text": "beginner",
+        "meta": "@difficulty",
+        "alias": "difficulty",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "body weight",
+        "meta": "@equipment",
+        "alias": "equipment",
+        "userDefined": true
+      },
+      {
+        "text": " workout",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4090c5e1-8617-477a-a525-c5f27555dd17",
+    "data": [
+      {
+        "text": "I have ",
+        "userDefined": false
+      },
+      {
+        "text": "dumbbells",
+        "meta": "@equipment",
+        "alias": "equipment",
+        "userDefined": true
+      },
+      {
+        "text": " I can work out with. What should I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b5b7837-00a7-4a0d-8452-ba79b8c6b137",
+    "data": [
+      {
+        "text": "help me come up with a ",
+        "userDefined": false
+      },
+      {
+        "text": "chest",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "back",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": true
+      },
+      {
+        "text": " workout",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "25732e8d-1de4-44bf-8f36-c051463b5e62",
+    "data": [
+      {
+        "text": "push",
+        "meta": "@split",
+        "alias": "split",
+        "userDefined": true
+      },
+      {
+        "text": " based workout",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a74675da-82bf-4c21-b4e5-5c20de853b19",
+    "data": [
+      {
+        "text": "I need a ",
+        "userDefined": false
+      },
+      {
+        "text": "bodyweight",
+        "meta": "@equipment",
+        "alias": "equipment",
+        "userDefined": true
+      },
+      {
+        "text": " workout I can do in ",
+        "userDefined": false
+      },
+      {
+        "text": "30 minutes",
+        "meta": "@sys.duration",
+        "alias": "time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b45be4b0-906b-49c9-bb22-ba42c76a0a69",
+    "data": [
+      {
+        "text": "I have an ",
+        "userDefined": false
+      },
+      {
+        "text": "hour",
+        "meta": "@sys.duration",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " to workout. What should I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9a91fa4a-113c-46fd-97ff-8b280c99730d",
+    "data": [
+      {
+        "text": "I have ",
+        "userDefined": false
+      },
+      {
+        "text": "45 minutes",
+        "meta": "@sys.duration",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "cardio",
+        "meta": "@split",
+        "alias": "split",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c5c050e-2cee-40ae-8a6c-86c9ba79dd2b",
+    "data": [
+      {
+        "text": "give me an ",
+        "userDefined": false
+      },
+      {
+        "text": "upper",
+        "meta": "@split",
+        "alias": "split",
+        "userDefined": false
+      },
+      {
+        "text": " body workout",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "62ce3f48-f8e2-4c33-8350-6176867e2da7",
+    "data": [
+      {
+        "text": "I want a ",
+        "userDefined": false
+      },
+      {
+        "text": "pull",
+        "meta": "@split",
+        "alias": "split",
+        "userDefined": false
+      },
+      {
+        "text": " day workout",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bb7537fa-74b9-47b8-9fae-58995efb284d",
+    "data": [
+      {
+        "text": "I want a workout that focuses on my ",
+        "userDefined": false
+      },
+      {
+        "text": "chest",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eca3054b-79c4-4a8a-9cb3-8a08ef7f8cb0",
+    "data": [
+      {
+        "text": "I have ",
+        "userDefined": false
+      },
+      {
+        "text": "half an hour",
+        "meta": "@sys.duration",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " to do a workout",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d030493-fbe6-43cc-bc9a-193cb10635bd",
+    "data": [
+      {
+        "text": "Give me an ",
+        "userDefined": false
+      },
+      {
+        "text": "intermediate",
+        "meta": "@difficulty",
+        "alias": "difficulty",
+        "userDefined": false
+      },
+      {
+        "text": " workout",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "04195693-6095-4042-bf78-c68b418c4d7b",
+    "data": [
+      {
+        "text": "I have an ",
+        "userDefined": false
+      },
+      {
+        "text": "hour and a half",
+        "meta": "@sys.duration",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " for a ",
+        "userDefined": false
+      },
+      {
+        "text": "full",
+        "meta": "@split",
+        "alias": "split",
+        "userDefined": false
+      },
+      {
+        "text": " body workout",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f80c960-5761-4815-af0d-3c804f2fef41",
+    "data": [
+      {
+        "text": "i have ",
+        "userDefined": false
+      },
+      {
+        "text": "70 minutes",
+        "meta": "@sys.duration",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " to workout",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a7cbe4d-a07c-46f3-881d-186ae6930a87",
+    "data": [
+      {
+        "text": "legs",
+        "meta": "@split",
+        "alias": "split",
+        "userDefined": true
+      },
+      {
+        "text": " workout",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6c62a0fa-d4e7-487a-bf7b-e23b5920d87a",
+    "data": [
+      {
+        "text": "i want a ",
+        "userDefined": false
+      },
+      {
+        "text": "hard",
+        "meta": "@difficulty",
+        "alias": "difficulty",
+        "userDefined": true
+      },
+      {
+        "text": " workout for my ",
+        "userDefined": false
+      },
+      {
+        "text": "arms",
+        "meta": "@split",
+        "alias": "split",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "64e4bec5-6b9a-41f9-87d5-f1717deca3a8",
+    "data": [
+      {
+        "text": "I want a ",
+        "userDefined": false
+      },
+      {
+        "text": "beginner",
+        "meta": "@difficulty",
+        "alias": "difficulty",
+        "userDefined": false
+      },
+      {
+        "text": " workout",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

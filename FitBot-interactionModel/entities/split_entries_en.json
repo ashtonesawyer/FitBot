@@ -1,0 +1,66 @@
+[
+  {
+    "value": "push",
+    "synonyms": [
+      "push"
+    ]
+  },
+  {
+    "value": "pull",
+    "synonyms": [
+      "pull"
+    ]
+  },
+  {
+    "value": "legs",
+    "synonyms": [
+      "legs",
+      "lower",
+      "lower body"
+    ]
+  },
+  {
+    "value": "upper",
+    "synonyms": [
+      "upper",
+      "upper body"
+    ]
+  },
+  {
+    "value": "core",
+    "synonyms": [
+      "core",
+      "abs",
+      "abdominals"
+    ]
+  },
+  {
+    "value": "full",
+    "synonyms": [
+      "full",
+      "full body"
+    ]
+  },
+  {
+    "value": "cardio",
+    "synonyms": [
+      "cardio",
+      "running"
+    ]
+  },
+  {
+    "value": "flexibility",
+    "synonyms": [
+      "flexibility",
+      "stretch",
+      "stretching"
+    ]
+  },
+  {
+    "value": "arms",
+    "synonyms": [
+      "arms",
+      "arm"
+    ]
+  }
+]

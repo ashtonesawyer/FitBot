@@ -1,0 +1,9 @@
+{
+  "id": "c0c3f26a-bfe5-4eae-85b7-f1fd9ed98ecc",
+  "name": "split",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

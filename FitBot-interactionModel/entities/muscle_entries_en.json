@@ -1,0 +1,125 @@
+[
+  {
+    "value": "abdominals",
+    "synonyms": [
+      "abdominals",
+      "abs",
+      "six pack",
+      "midriff",
+      "core",
+      "oblique",
+      "belly"
+    ]
+  },
+  {
+    "value": "abductors",
+    "synonyms": [
+      "abductors",
+      "hips",
+      "outer thigh"
+    ]
+  },
+  {
+    "value": "adductors",
+    "synonyms": [
+      "adductors",
+      "inner thigh"
+    ]
+  },
+  {
+    "value": "biceps",
+    "synonyms": [
+      "biceps"
+    ]
+  },
+  {
+    "value": "calves",
+    "synonyms": [
+      "calves"
+    ]
+  },
+  {
+    "value": "chest",
+    "synonyms": [
+      "chest",
+      "pecs"
+    ]
+  },
+  {
+    "value": "forearms",
+    "synonyms": [
+      "forearms"
+    ]
+  },
+  {
+    "value": "glutes",
+    "synonyms": [
+      "glutes",
+      "butt",
+      "behind"
+    ]
+  },
+  {
+    "value": "hamstrings",
+    "synonyms": [
+      "hamstrings"
+    ]
+  },
+  {
+    "value": "lats",
+    "synonyms": [
+      "lats",
+      "latissimus dorsi"
+    ]
+  },
+  {
+    "value": "lower back",
+    "synonyms": [
+      "lower back"
+    ]
+  },
+  {
+    "value": "middle back",
+    "synonyms": [
+      "middle back",
+      "upper back",
+      "back"
+    ]
+  },
+  {
+    "value": "neck",
+    "synonyms": [
+      "neck"
+    ]
+  },
+  {
+    "value": "quadriceps",
+    "synonyms": [
+      "quadriceps",
+      "quads",
+      "legs",
+      "upper legs"
+    ]
+  },
+  {
+    "value": "traps",
+    "synonyms": [
+      "traps",
+      "trapezius"
+    ]
+  },
+  {
+    "value": "triceps",
+    "synonyms": [
+      "triceps",
+      "tris"
+    ]
+  },
+  {
+    "value": "shoulders",
+    "synonyms": [
+      "shoulders",
+      "shoulder"
+    ]
+  }
+]

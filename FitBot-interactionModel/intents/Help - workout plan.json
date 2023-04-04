@@ -1,0 +1,35 @@
+{
+  "id": "7807c8e4-2de6-4553-9139-0f07f7b2cca9",
+  "name": "Help - workout plan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I can give you advice on a workout plan to fit your goals and needs. I need to know how often you want to train, and you can also tell me how long you want each workout to be, your goals (for example, hypertrophy, better endurance, or increased strength), and/or what kind of split you want to use. To get started, try saying \"I want a beginner bodybuilding workout plan with 3 workouts a week\""
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

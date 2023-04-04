@@ -1,0 +1,44 @@
+[
+  {
+    "value": "cardio",
+    "synonyms": [
+      "cardio"
+    ]
+  },
+  {
+    "value": "olympic weightlifting",
+    "synonyms": [
+      "olympic weightlifting"
+    ]
+  },
+  {
+    "value": "plyometrics",
+    "synonyms": [
+      "plyometrics"
+    ]
+  },
+  {
+    "value": "powerlifting",
+    "synonyms": [
+      "powerlifting"
+    ]
+  },
+  {
+    "value": "strength",
+    "synonyms": [
+      "strength"
+    ]
+  },
+  {
+    "value": "stretching",
+    "synonyms": [
+      "stretching"
+    ]
+  },
+  {
+    "value": "strongman",
+    "synonyms": [
+      "strongman"
+    ]
+  }
+]

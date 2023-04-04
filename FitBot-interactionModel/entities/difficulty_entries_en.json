@@ -1,0 +1,25 @@
+[
+  {
+    "value": "beginner",
+    "synonyms": [
+      "beginner",
+      "easy",
+      "gentle"
+    ]
+  },
+  {
+    "value": "intermediate",
+    "synonyms": [
+      "intermediate",
+      "normal"
+    ]
+  },
+  {
+    "value": "advanced",
+    "synonyms": [
+      "advanced",
+      "hard",
+      "intense"
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "id": "4b57a43d-6b02-47bf-9ac5-2ceb9980fca1",
+  "name": "Help - single workout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I will program a single workout based on your needs. It will include a warmup and a cooldown. You can tell me how long you have, how difficult you want it to be, what you want to train (particular muscles or a particular split), and what equipment you have. To get started, try saying \"Give me a beginner chest workout\"."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

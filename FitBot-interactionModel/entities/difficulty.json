@@ -1,0 +1,9 @@
+{
+  "id": "ffb24568-04db-4c37-9047-a132c7c3be29",
+  "name": "difficulty",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

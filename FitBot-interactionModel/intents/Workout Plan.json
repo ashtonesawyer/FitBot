@@ -1,0 +1,127 @@
+{
+  "id": "ef789558-0b94-4046-b3f0-012a637cf6e5",
+  "name": "Workout Plan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5aa18450-4a34-4121-900b-9e96df5a6e49",
+          "name": "difficulty",
+          "required": false,
+          "dataType": "@difficulty",
+          "value": "$difficulty",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "5d84d688-57d0-4c0c-b705-5d8b22ea656a",
+          "name": "days",
+          "required": true,
+          "dataType": "@sys.number-integer",
+          "value": "$days",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "How often do you want to work out? For example. you could say \u0027I want to work out 3 days a week\u0027"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "945f09d2-2ba9-4dfa-9fdc-e68615cab5c9",
+          "name": "time-chunk",
+          "required": true,
+          "dataType": "@sys.duration",
+          "value": "$time-chunk",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "How often do you want to work out? For example. you could say \u0027I want to work out 3 days a week\u0027"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "dbda1e4f-e8e8-4a13-a849-aa57dc7ac888",
+          "name": "goal",
+          "required": false,
+          "dataType": "@goal",
+          "value": "$goal",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "8cbeb8ac-f315-4633-9ed4-5362bcfa5b7f",
+          "name": "split",
+          "required": false,
+          "dataType": "@split",
+          "value": "$split",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "89c840a8-ee63-4218-a8f9-6dd7efbd0a10",
+          "name": "workout-len",
+          "required": false,
+          "dataType": "@sys.duration",
+          "value": "$workout-len",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

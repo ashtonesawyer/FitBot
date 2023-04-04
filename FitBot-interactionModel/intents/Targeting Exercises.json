@@ -1,0 +1,56 @@
+{
+  "id": "700c796c-d46d-467b-b398-7612306cfff0",
+  "name": "Targeting Exercises",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6d390d09-b789-4d9a-b187-73b16e4da3c3",
+          "name": "muscle",
+          "required": true,
+          "dataType": "@muscle",
+          "value": "$muscle",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "what muscle do you want to learn about?"
+            },
+            {
+              "lang": "en",
+              "value": "Which muscle do you want to find exercises for?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

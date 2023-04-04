@@ -1,0 +1,564 @@
+[
+  {
+    "value": "pushups",
+    "synonyms": [
+      "pushup",
+      "pushups",
+      "a pushup"
+    ]
+  },
+  {
+    "value": "squats",
+    "synonyms": [
+      "squats"
+    ]
+  },
+  {
+    "value": "rows",
+    "synonyms": [
+      "rows"
+    ]
+  },
+  {
+    "value": "pike pushups",
+    "synonyms": [
+      "pike pushups"
+    ]
+  },
+  {
+    "value": "curls",
+    "synonyms": [
+      "curls"
+    ]
+  },
+  {
+    "value": "preacher curls",
+    "synonyms": [
+      "preacher curls"
+    ]
+  },
+  {
+    "value": "goblet squats",
+    "synonyms": [
+      "goblet squats"
+    ]
+  },
+  {
+    "value": "front squats",
+    "synonyms": [
+      "front squats"
+    ]
+  },
+  {
+    "value": "planks",
+    "synonyms": [
+      "planks",
+      "a plank"
+    ]
+  },
+  {
+    "value": "lunges",
+    "synonyms": [
+      "lunges"
+    ]
+  },
+  {
+    "value": "crunches",
+    "synonyms": [
+      "crunches"
+    ]
+  },
+  {
+    "value": "bent-over row",
+    "synonyms": [
+      "bent-over row"
+    ]
+  },
+  {
+    "value": "divebombers",
+    "synonyms": [
+      "divebombers"
+    ]
+  },
+  {
+    "value": "bear crawls",
+    "synonyms": [
+      "bear crawls"
+    ]
+  },
+  {
+    "value": "table rows",
+    "synonyms": [
+      "table rows"
+    ]
+  },
+  {
+    "value": "wallsit",
+    "synonyms": [
+      "wallsit"
+    ]
+  },
+  {
+    "value": "jumping jacks",
+    "synonyms": [
+      "jumping jacks"
+    ]
+  },
+  {
+    "value": "pull ups",
+    "synonyms": [
+      "pull ups"
+    ]
+  },
+  {
+    "value": "calf raises",
+    "synonyms": [
+      "calf raises"
+    ]
+  },
+  {
+    "value": "shoulder circles",
+    "synonyms": [
+      "shoulder circles"
+    ]
+  },
+  {
+    "value": "box jumps",
+    "synonyms": [
+      "box jumps"
+    ]
+  },
+  {
+    "value": "back extentions",
+    "synonyms": [
+      "back extentions"
+    ]
+  },
+  {
+    "value": "spiderman pushups",
+    "synonyms": [
+      "spiderman pushups"
+    ]
+  },
+  {
+    "value": "dips",
+    "synonyms": [
+      "dips"
+    ]
+  },
+  {
+    "value": "chair dips",
+    "synonyms": [
+      "chair dips"
+    ]
+  },
+  {
+    "value": "tricep kickbacks",
+    "synonyms": [
+      "tricep kickbacks"
+    ]
+  },
+  {
+    "value": "leg raises",
+    "synonyms": [
+      "leg raises"
+    ]
+  },
+  {
+    "value": "side planks",
+    "synonyms": [
+      "side planks"
+    ]
+  },
+  {
+    "value": "bridges",
+    "synonyms": [
+      "bridges",
+      "glute bridges"
+    ]
+  },
+  {
+    "value": "mountain climbers",
+    "synonyms": [
+      "mountain climbers"
+    ]
+  },
+  {
+    "value": "sprints",
+    "synonyms": [
+      "sprints"
+    ]
+  },
+  {
+    "value": "shrugs",
+    "synonyms": [
+      "shrugs",
+      "shoulder shrugs"
+    ]
+  },
+  {
+    "value": "lat pulldowns",
+    "synonyms": [
+      "lat pulldowns"
+    ]
+  },
+  {
+    "value": "burpees",
+    "synonyms": [
+      "burpees"
+    ]
+  },
+  {
+    "value": "ball slams",
+    "synonyms": [
+      "ball slams"
+    ]
+  },
+  {
+    "value": "holow hold",
+    "synonyms": [
+      "holow hold"
+    ]
+  },
+  {
+    "value": "russian twists",
+    "synonyms": [
+      "russian twists"
+    ]
+  },
+  {
+    "value": "pistol squats",
+    "synonyms": [
+      "pistol squats"
+    ]
+  },
+  {
+    "value": "bench press",
+    "synonyms": [
+      "bench press",
+      "barbell bench press"
+    ]
+  },
+  {
+    "value": "dumbell bench press",
+    "synonyms": [
+      "dumbell bench press"
+    ]
+  },
+  {
+    "value": "deadlift",
+    "synonyms": [
+      "deadlift"
+    ]
+  },
+  {
+    "value": "sumo deadlift",
+    "synonyms": [
+      "sumo deadlift"
+    ]
+  },
+  {
+    "value": "incline bench press",
+    "synonyms": [
+      "incline bench press",
+      "barbell incline bench press",
+      "incline barbell bench press"
+    ]
+  },
+  {
+    "value": "romanian deadlift",
+    "synonyms": [
+      "romanian deadlift"
+    ]
+  },
+  {
+    "value": "stiff legged deadlift",
+    "synonyms": [
+      "stiff legged deadlift"
+    ]
+  },
+  {
+    "value": "smith machine bench press",
+    "synonyms": [
+      "smith machine bench press"
+    ]
+  },
+  {
+    "value": "close-grip bench press",
+    "synonyms": [
+      "close-grip bench press",
+      "close grip bench press"
+    ]
+  },
+  {
+    "value": "dumbbell flyes",
+    "synonyms": [
+      "dumbbell flyes"
+    ]
+  },
+  {
+    "value": "chest dip",
+    "synonyms": [
+      "chest dip"
+    ]
+  },
+  {
+    "value": "decline dumbbell flyes",
+    "synonyms": [
+      "decline dumbbell flyes"
+    ]
+  },
+  {
+    "value": "bodyweight flyes",
+    "synonyms": [
+      "bodyweight flyes"
+    ]
+  },
+  {
+    "value": "incline cable chest fly",
+    "synonyms": [
+      "incline cable chest fly",
+      "incline cable chest flyes",
+      "cable incline cable chest flyes"
+    ]
+  },
+  {
+    "value": "barbell deficit deadlift",
+    "synonyms": [
+      "barbell deficit deadlift"
+    ]
+  },
+  {
+    "value": "back extention",
+    "synonyms": [
+      "back extention",
+      "back extentions"
+    ]
+  },
+  {
+    "value": "deadlift with bands",
+    "synonyms": [
+      "deadlift with bands"
+    ]
+  },
+  {
+    "value": "rack pull with bands",
+    "synonyms": [
+      "rack pull with bands"
+    ]
+  },
+  {
+    "value": "superman",
+    "synonyms": [
+      "superman"
+    ]
+  },
+  {
+    "value": "exercise ball weighted hyperextention",
+    "synonyms": [
+      "exercise ball weighted hyperextention"
+    ]
+  },
+  {
+    "value": "arnold press",
+    "synonyms": [
+      "arnold press"
+    ]
+  },
+  {
+    "value": "smith machine shoulder press",
+    "synonyms": [
+      "smith machine shoulder press"
+    ]
+  },
+  {
+    "value": "machine shoulder press",
+    "synonyms": [
+      "machine shoulder press"
+    ]
+  },
+  {
+    "value": "front plate raise",
+    "synonyms": [
+      "front plate raise"
+    ]
+  },
+  {
+    "value": "single-arm standing shoulder press",
+    "synonyms": [
+      "single-arm standing shoulder press",
+      "single arm standing shoulder press"
+    ]
+  },
+  {
+    "value": "dumbbell front raise",
+    "synonyms": [
+      "dumbbell front raise"
+    ]
+  },
+  {
+    "value": "bent-over dumbbell rear delt row",
+    "synonyms": [
+      "bent-over dumbbell rear delt row"
+    ]
+  },
+  {
+    "value": "exernal rotation with cable",
+    "synonyms": [
+      "exernal rotation with cable"
+    ]
+  },
+  {
+    "value": "handstand push-up",
+    "synonyms": [
+      "handstand push-up",
+      "handstand pushup",
+      "handstand pushups"
+    ]
+  },
+  {
+    "value": "incline dumbell front raise",
+    "synonyms": [
+      "incline dumbell front raise",
+      "dumbell incline front raise"
+    ]
+  },
+  {
+    "value": "cocoons",
+    "synonyms": [
+      "cocoons"
+    ]
+  },
+  {
+    "value": "flutter kicks",
+    "synonyms": [
+      "flutter kicks"
+    ]
+  },
+  {
+    "value": "seated barbell shoulder press",
+    "synonyms": [
+      "seated barbell shoulder press"
+    ]
+  },
+  {
+    "value": "clean and press",
+    "synonyms": [
+      "clean and press"
+    ]
+  },
+  {
+    "value": "stomach vacuum",
+    "synonyms": [
+      "stomach vacuum"
+    ]
+  },
+  {
+    "value": "superman",
+    "synonyms": [
+      "superman"
+    ]
+  },
+  {
+    "value": "bent over two-arm long bar row",
+    "synonyms": [
+      "bent over two-arm long bar row"
+    ]
+  },
+  {
+    "value": "lower back curl",
+    "synonyms": [
+      "lower back curl"
+    ]
+  },
+  {
+    "value": "standing hamstring and calf stretch",
+    "synonyms": [
+      "standing hamstring and calf stretch"
+    ]
+  },
+  {
+    "value": "standing toe touches",
+    "synonyms": [
+      "standing toe touches"
+    ]
+  },
+  {
+    "value": "landmine twist",
+    "synonyms": [
+      "landmine twist"
+    ]
+  },
+  {
+    "value": "single-leg cable hip extension",
+    "synonyms": [
+      "single-leg cable hip extension"
+    ]
+  },
+  {
+    "value": "dumbbell front raise to lateral raise",
+    "synonyms": [
+      "dumbbell front raise to lateral raise"
+    ]
+  },
+  {
+    "value": "suspended ab fall-out",
+    "synonyms": [
+      "suspended ab fall-out"
+    ]
+  },
+  {
+    "value": "alternating sit-through with crunch",
+    "synonyms": [
+      "alternating sit-through with crunch"
+    ]
+  },
+  {
+    "value": "inchworm",
+    "synonyms": [
+      "inchworm"
+    ]
+  },
+  {
+    "value": "single-arm kettlebell push-press",
+    "synonyms": [
+      "single-arm kettlebell push-press"
+    ]
+  },
+  {
+    "value": "dumbbell spell caster",
+    "synonyms": [
+      "dumbbell spell caster"
+    ]
+  },
+  {
+    "value": "t-bar row",
+    "synonyms": [
+      "t-bar row"
+    ]
+  },
+  {
+    "value": "kneeling squat",
+    "synonyms": [
+      "kneeling squat"
+    ]
+  },
+  {
+    "value": "glute bridge",
+    "synonyms": [
+      "glute bridge"
+    ]
+  },
+  {
+    "value": "decline reverse crunch",
+    "synonyms": [
+      "decline reverse crunch"
+    ]
+  },
+  {
+    "value": "medicine ball duck walk",
+    "synonyms": [
+      "medicine ball duck walk"
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "id": "ae87f7d7-56a3-44ef-a498-d58ffd6729e5",
+  "name": "How To",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c564f367-d9b0-4fac-8281-a3dad3a7855a",
+          "name": "exercise",
+          "required": true,
+          "dataType": "@exercise",
+          "value": "$exercise",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is the name of the exercise you want to learn about?"
+            },
+            {
+              "lang": "en",
+              "value": "What\u0027s the exercise\u0027s name?"
+            },
+            {
+              "lang": "en",
+              "value": "Which exercise do you want to learn?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

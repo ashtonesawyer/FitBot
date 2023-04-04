@@ -1,0 +1,249 @@
+[
+  {
+    "id": "e92fb36d-78c0-43ca-a57a-e07b2d75fe72",
+    "data": [
+      {
+        "text": "How to start",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc5e4df0-80ec-4f5c-adaf-157e4e439dfa",
+    "data": [
+      {
+        "text": "I need assistance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "417af799-270f-4388-bfc4-70d5f27435f3",
+    "data": [
+      {
+        "text": "Guide me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a124adf-4a48-4455-a5fe-3cf6c680693c",
+    "data": [
+      {
+        "text": "Start-up guide",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "94e2fc0f-554f-4bcc-8063-012f4947eab3",
+    "data": [
+      {
+        "text": "Getting started",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1bf3d476-69f5-4448-afd4-f0b1120ae945",
+    "data": [
+      {
+        "text": "How should I start?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f838337-6835-4d2a-8a97-31b294995c0e",
+    "data": [
+      {
+        "text": "I don\u0027t know how to start",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9bdb146f-f5f1-4799-a311-494f492442a0",
+    "data": [
+      {
+        "text": "I don\u0027t know how this works",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0b0f74f4-cf1c-467f-b917-264294cf8269",
+    "data": [
+      {
+        "text": "What does this do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0e904e6b-acaa-4287-8d1f-057811db6d2b",
+    "data": [
+      {
+        "text": "What should I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b794202-3ea0-426d-b6e6-56a1b08da257",
+    "data": [
+      {
+        "text": "I don\u0027t know what to do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43fbaf69-6a01-4a5c-aa75-5b961cb47723",
+    "data": [
+      {
+        "text": "I need help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b7d667ef-4c34-4d3a-9d21-23be2f82b603",
+    "data": [
+      {
+        "text": "H",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7affc374-aae6-4ad5-bef2-440c32167c52",
+    "data": [
+      {
+        "text": "How do you work",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c70a1b1-5d55-4957-8731-85af51043b98",
+    "data": [
+      {
+        "text": "What should I say",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "257b0399-91ad-469d-b713-572a9979e09e",
+    "data": [
+      {
+        "text": "What can I do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "076480e8-f7e6-4f8c-a6e0-e01a109f2d52",
+    "data": [
+      {
+        "text": "How do I work this",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b91e9d83-4646-4298-8892-11038d0feb85",
+    "data": [
+      {
+        "text": "How does this work",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7058a140-a947-40a8-bf50-03ffc232a98c",
+    "data": [
+      {
+        "text": "Help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

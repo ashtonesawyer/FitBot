@@ -1,0 +1,732 @@
+[
+  {
+    "id": "71e4ada3-7ac3-4644-ac99-9fc2721215bd",
+    "data": [
+      {
+        "text": "Advice about general ",
+        "userDefined": false
+      },
+      {
+        "text": "fitness",
+        "meta": "@goal",
+        "alias": "goal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9de2b1e-9b0c-4f7f-8a38-9e41f5e8e64a",
+    "data": [
+      {
+        "text": "3 hour",
+        "meta": "@sys.duration",
+        "alias": "workout-len",
+        "userDefined": true
+      },
+      {
+        "text": " workouts ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "days",
+        "userDefined": false
+      },
+      {
+        "text": " days ",
+        "userDefined": false
+      },
+      {
+        "text": "a week",
+        "meta": "@sys.duration",
+        "alias": "time-chunk",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "body building",
+        "meta": "@goal",
+        "alias": "goal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8badf0e6-5010-46a2-a3e7-6be74c2c25bb",
+    "data": [
+      {
+        "text": "Workout plan ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.number-integer",
+        "alias": "days",
+        "userDefined": false
+      },
+      {
+        "text": " days ",
+        "userDefined": false
+      },
+      {
+        "text": "a week",
+        "meta": "@sys.duration",
+        "alias": "time-chunk",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "powerlifting",
+        "meta": "@goal",
+        "alias": "goal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b5f69d1-7089-45c5-9e49-8e57d4d74d50",
+    "data": [
+      {
+        "text": "i want to workout ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "days",
+        "userDefined": false
+      },
+      {
+        "text": " day each ",
+        "userDefined": false
+      },
+      {
+        "text": "week",
+        "meta": "@sys.duration",
+        "alias": "time-chunk",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "48e06bba-4479-4954-9406-06e79a2eace4",
+    "data": [
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "days",
+        "userDefined": false
+      },
+      {
+        "text": " day ",
+        "userDefined": false
+      },
+      {
+        "text": "a week",
+        "meta": "@sys.duration",
+        "alias": "time-chunk",
+        "userDefined": false
+      },
+      {
+        "text": " workout plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d99b8ee2-d361-481b-977a-d59883996111",
+    "data": [
+      {
+        "text": "i want to work out ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "days",
+        "userDefined": false
+      },
+      {
+        "text": " day ",
+        "userDefined": false
+      },
+      {
+        "text": "a week",
+        "meta": "@sys.duration",
+        "alias": "time-chunk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1cf5ff63-5dd5-4b9f-bc8a-6d964a96e54f",
+    "data": [
+      {
+        "text": "i want a ",
+        "userDefined": false
+      },
+      {
+        "text": "powerlifting",
+        "meta": "@goal",
+        "alias": "goal",
+        "userDefined": true
+      },
+      {
+        "text": " program",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea6e4565-2730-46ed-a374-66d80500b21f",
+    "data": [
+      {
+        "text": "i want a ",
+        "userDefined": false
+      },
+      {
+        "text": "beginner",
+        "meta": "@difficulty",
+        "alias": "difficulty",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bodybuilding",
+        "meta": "@goal",
+        "alias": "goal",
+        "userDefined": true
+      },
+      {
+        "text": " workout plan with ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.number-integer",
+        "alias": "days",
+        "userDefined": false
+      },
+      {
+        "text": " workouts ",
+        "userDefined": false
+      },
+      {
+        "text": "a week",
+        "meta": "@sys.duration",
+        "alias": "time-chunk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "19b0e0e5-8d35-4460-b51f-b6bbfce8f1e4",
+    "data": [
+      {
+        "text": "I want to do ",
+        "userDefined": false
+      },
+      {
+        "text": "90 minute",
+        "meta": "@sys.duration",
+        "alias": "workout-len",
+        "userDefined": false
+      },
+      {
+        "text": " workouts ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@sys.number-integer",
+        "alias": "days",
+        "userDefined": false
+      },
+      {
+        "text": " days ",
+        "userDefined": false
+      },
+      {
+        "text": "a week",
+        "meta": "@sys.duration",
+        "alias": "time-chunk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6d79948d-cf8b-4549-9053-5078f7891eab",
+    "data": [
+      {
+        "text": "I want to work out ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.number-integer",
+        "alias": "days",
+        "userDefined": false
+      },
+      {
+        "text": " days ",
+        "userDefined": false
+      },
+      {
+        "text": "a week",
+        "meta": "@sys.duration",
+        "alias": "time-chunk",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "half an hour",
+        "meta": "@sys.duration",
+        "alias": "workout-len",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6a6bfb0-56f9-4fb9-a485-9ed6ba04f93e",
+    "data": [
+      {
+        "text": "i want a ",
+        "userDefined": false
+      },
+      {
+        "text": "beginner",
+        "meta": "@difficulty",
+        "alias": "difficulty",
+        "userDefined": false
+      },
+      {
+        "text": " workout plan with ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.number-integer",
+        "alias": "days",
+        "userDefined": false
+      },
+      {
+        "text": " workouts ",
+        "userDefined": false
+      },
+      {
+        "text": "per week",
+        "meta": "@sys.duration",
+        "alias": "time-chunk",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b221fa14-b304-4ae7-b4cf-b1e78eb6e6fa",
+    "data": [
+      {
+        "text": "I want to workout ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@sys.number-integer",
+        "alias": "days",
+        "userDefined": false
+      },
+      {
+        "text": " days ",
+        "userDefined": false
+      },
+      {
+        "text": "a week",
+        "meta": "@sys.duration",
+        "alias": "time-chunk",
+        "userDefined": false
+      },
+      {
+        "text": " with an ",
+        "userDefined": false
+      },
+      {
+        "text": "upper",
+        "meta": "@split",
+        "alias": "split",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "lower",
+        "meta": "@split",
+        "alias": "split",
+        "userDefined": false
+      },
+      {
+        "text": " split",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "332582c5-b21f-4d75-8f55-2dd6cd71691b",
+    "data": [
+      {
+        "text": "give me a plan with ",
+        "userDefined": false
+      },
+      {
+        "text": "hour",
+        "meta": "@sys.duration",
+        "alias": "workout-len",
+        "userDefined": true
+      },
+      {
+        "text": " long workouts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "31a05d51-df1d-4aa5-9126-7cd3a4b4bbb1",
+    "data": [
+      {
+        "text": "give me an ",
+        "userDefined": false
+      },
+      {
+        "text": "upper",
+        "meta": "@split",
+        "alias": "split",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "lower",
+        "meta": "@split",
+        "alias": "split",
+        "userDefined": false
+      },
+      {
+        "text": " workout program",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c772fcb-413d-4ea1-9d5e-25fac4ec298b",
+    "data": [
+      {
+        "text": "give me a workout program",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "806d99c8-dfa6-475d-96bf-e73eafa55132",
+    "data": [
+      {
+        "text": "I want a program that works on my ",
+        "userDefined": false
+      },
+      {
+        "text": "flexibility",
+        "meta": "@goal",
+        "alias": "goal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75f02f61-0b8c-466d-a374-07b09c816c6d",
+    "data": [
+      {
+        "text": "I want a workout plan with ",
+        "userDefined": false
+      },
+      {
+        "text": "30 minute",
+        "meta": "@sys.duration",
+        "alias": "workout-len",
+        "userDefined": false
+      },
+      {
+        "text": " workouts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c55123a1-f51f-4f5c-9f43-6278d46847c0",
+    "data": [
+      {
+        "text": "I want a ",
+        "userDefined": false
+      },
+      {
+        "text": "push pull legs",
+        "meta": "@split",
+        "alias": "split",
+        "userDefined": true
+      },
+      {
+        "text": " workout split",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0cd03c73-0f5f-4331-93ed-c9b9867e2432",
+    "data": [
+      {
+        "text": "I want a workout plan that focuses on ",
+        "userDefined": false
+      },
+      {
+        "text": "hypertrophy",
+        "meta": "@goal",
+        "alias": "goal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7532df0b-efcc-4edc-9bf1-28e4bf0424fb",
+    "data": [
+      {
+        "text": "I want an ",
+        "userDefined": false
+      },
+      {
+        "text": "intermediate",
+        "meta": "@difficulty",
+        "alias": "difficulty",
+        "userDefined": false
+      },
+      {
+        "text": " program that focuses on ",
+        "userDefined": false
+      },
+      {
+        "text": "strength",
+        "meta": "@goal",
+        "alias": "goal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1633927e-9285-4309-b53f-39afe1d9997d",
+    "data": [
+      {
+        "text": "I want to work out ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.number-integer",
+        "alias": "days",
+        "userDefined": false
+      },
+      {
+        "text": " times every ",
+        "userDefined": false
+      },
+      {
+        "text": "2 weeks",
+        "meta": "@sys.duration",
+        "alias": "time-chunk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "281b20ae-15cb-4abd-94f9-35265f338a88",
+    "data": [
+      {
+        "text": "I want to workout ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.number-integer",
+        "alias": "days",
+        "userDefined": true
+      },
+      {
+        "text": " days ",
+        "userDefined": false
+      },
+      {
+        "text": "a week",
+        "meta": "@sys.duration",
+        "alias": "time-chunk",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32cc3770-7acc-4e9e-8086-1d0f4cc5c134",
+    "data": [
+      {
+        "text": "workout plan for a ",
+        "userDefined": false
+      },
+      {
+        "text": "beginner",
+        "meta": "@difficulty",
+        "alias": "difficulty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4bb9fa71-ea15-4d38-b365-d1d8ccaf53af",
+    "data": [
+      {
+        "text": "help me come up with a workout plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "072a9d13-1699-4e03-96f0-1207ad3df13e",
+    "data": [
+      {
+        "text": "give me a workout plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a00e1574-42b3-481c-82bc-a7d627af86bf",
+    "data": [
+      {
+        "text": "I want a workout plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

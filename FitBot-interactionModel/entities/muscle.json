@@ -1,0 +1,9 @@
+{
+  "id": "2ee0ec5a-d99e-4459-a524-f47ad993ee9b",
+  "name": "muscle",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

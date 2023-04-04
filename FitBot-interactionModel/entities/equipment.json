@@ -1,0 +1,9 @@
+{
+  "id": "b3477238-2c2c-47cf-9d10-6b0a4be6bf8e",
+  "name": "equipment",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

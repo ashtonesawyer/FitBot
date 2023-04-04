@@ -1,0 +1,103 @@
+{
+  "id": "2dff2ff7-551b-4499-9584-e790c27ecd63",
+  "name": "Single Workout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "28038163-c1b0-4395-be53-27e43d1a077c",
+          "name": "difficulty",
+          "required": false,
+          "dataType": "@difficulty",
+          "value": "$difficulty",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "77b81cee-f022-4516-a289-468a0b8c9eda",
+          "name": "time",
+          "required": false,
+          "dataType": "@sys.duration",
+          "value": "$time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "64df0280-89e1-4dab-aac6-d5410af38be5",
+          "name": "muscle",
+          "required": false,
+          "dataType": "@muscle",
+          "value": "$muscle",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "a0bfb1b1-326b-4855-a22f-85808380f2cd",
+          "name": "split",
+          "required": false,
+          "dataType": "@split",
+          "value": "$split",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "545bfba6-17e8-43e2-88b2-5b950d297489",
+          "name": "equipment",
+          "required": false,
+          "dataType": "@equipment",
+          "value": "$equipment",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

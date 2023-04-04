@@ -1,0 +1,35 @@
+{
+  "id": "47c6610e-e938-4ce9-b076-432052952d19",
+  "name": "Help - gen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I am a virtual personal trainer. You can ask me for a single workout, a workout plan, how to do a certain exercise, or what exercises target a certain muscle. For more information about any of those actions, say \u0027Help\u0027 followed by the action."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

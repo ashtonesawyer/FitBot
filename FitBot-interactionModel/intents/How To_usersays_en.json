@@ -1,0 +1,479 @@
+[
+  {
+    "id": "4a29f637-66a7-4c85-b9a3-a2ec54bc327c",
+    "data": [
+      {
+        "text": "i need help with how to do ",
+        "userDefined": false
+      },
+      {
+        "text": "calf raises",
+        "meta": "@exercise",
+        "alias": "exercise",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "078171e2-8816-4298-a6d4-f26f6f503bb0",
+    "data": [
+      {
+        "text": "help ",
+        "userDefined": false
+      },
+      {
+        "text": "curls",
+        "meta": "@exercise",
+        "alias": "exercise",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d8630bc0-9a97-44c3-a66e-7bd1817d79cf",
+    "data": [
+      {
+        "text": "v sit",
+        "meta": "@exercise",
+        "alias": "exercise",
+        "userDefined": false
+      },
+      {
+        "text": " help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e05fbb5c-0e93-4c7e-a6fe-e8a1717cb568",
+    "data": [
+      {
+        "text": "deadlift",
+        "meta": "@exercise",
+        "alias": "exercise",
+        "userDefined": true
+      },
+      {
+        "text": " how to",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a78b7bc-1e33-4130-9fd8-373235c0c7ce",
+    "data": [
+      {
+        "text": "how to ",
+        "userDefined": false
+      },
+      {
+        "text": "pushup",
+        "meta": "@exercise",
+        "alias": "exercise",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5a52392b-5e00-43f8-97ff-8fdcfe9ca15c",
+    "data": [
+      {
+        "text": "tell me how to do ",
+        "userDefined": false
+      },
+      {
+        "text": "front squats",
+        "meta": "@exercise",
+        "alias": "exercise",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "388febe1-b994-48c0-8647-068f2f299fd6",
+    "data": [
+      {
+        "text": "exercise form ",
+        "userDefined": false
+      },
+      {
+        "text": "info",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d8050c51-6729-46d3-8460-c905fcd34acb",
+    "data": [
+      {
+        "text": "I don\u0027t know how to do an ",
+        "userDefined": false
+      },
+      {
+        "text": "exercise",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6a1d9f2-1eb7-4328-82f9-0931434daa5d",
+    "data": [
+      {
+        "text": "how do I do this ",
+        "userDefined": false
+      },
+      {
+        "text": "exercise",
+        "meta": "@exercise",
+        "alias": "exercise",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "60816897-9721-4294-90bc-061519c7a6e6",
+    "data": [
+      {
+        "text": "exercise form",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "184f0f6c-eee3-4e1a-957b-61f006786b7b",
+    "data": [
+      {
+        "text": "barbell curl",
+        "meta": "@exercise",
+        "alias": "exercise",
+        "userDefined": false
+      },
+      {
+        "text": " form",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "29a41472-99a3-4e4a-ab84-8df6227cf3c5",
+    "data": [
+      {
+        "text": "how do ",
+        "userDefined": false
+      },
+      {
+        "text": "pushpus",
+        "meta": "@exercise",
+        "alias": "exercise",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18cf4a38-dc62-45c8-a016-2225c55d5cf8",
+    "data": [
+      {
+        "text": "Correct form for ",
+        "userDefined": false
+      },
+      {
+        "text": "barbell bench press",
+        "meta": "@exercise",
+        "alias": "exercise",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7213c012-26a6-4dd4-8970-7e0b25b2310f",
+    "data": [
+      {
+        "text": "The right way to do a ",
+        "userDefined": false
+      },
+      {
+        "text": "wide-grip barbell curl",
+        "meta": "@exercise",
+        "alias": "exercise",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3226e7fa-ac3c-4b52-ad10-a5c4f811359c",
+    "data": [
+      {
+        "text": "What\u0027s the best way to do ",
+        "userDefined": false
+      },
+      {
+        "text": "barbell squats",
+        "meta": "@exercise",
+        "alias": "exercise",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99ece87f-8b9b-4258-83b3-0bb582a9aabf",
+    "data": [
+      {
+        "text": "What are ",
+        "userDefined": false
+      },
+      {
+        "text": "spiderman pushups?",
+        "meta": "@exercise",
+        "alias": "exercise",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6c9f6a89-596b-457a-ba2a-62987792aa53",
+    "data": [
+      {
+        "text": "I don\u0027t know ",
+        "userDefined": false
+      },
+      {
+        "text": "pistol squat",
+        "meta": "@exercise",
+        "alias": "exercise",
+        "userDefined": true
+      },
+      {
+        "text": " form",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "de05bd68-4dce-4f90-82f8-942359fb628f",
+    "data": [
+      {
+        "text": "I need to know the form for ",
+        "userDefined": false
+      },
+      {
+        "text": "pike pushups",
+        "meta": "@exercise",
+        "alias": "exercise",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e5e06b6-51fb-4dc4-a994-4f57b6aa0403",
+    "data": [
+      {
+        "text": "What is the right way to do ",
+        "userDefined": false
+      },
+      {
+        "text": "shoulder presses",
+        "meta": "@exercise",
+        "alias": "exercise",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51edffda-25e0-4f9b-b914-8f7b694e2f2b",
+    "data": [
+      {
+        "text": "What is the correct form for ",
+        "userDefined": false
+      },
+      {
+        "text": "squats?",
+        "meta": "@exercise",
+        "alias": "exercise",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e0e41426-2a04-417d-9a13-0c0cad6d7b33",
+    "data": [
+      {
+        "text": "give me the form for a ",
+        "userDefined": false
+      },
+      {
+        "text": "shoulder raise",
+        "meta": "@exercise",
+        "alias": "exercise",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd0068fa-ce48-47e7-82f0-4fad88001241",
+    "data": [
+      {
+        "text": "squat",
+        "meta": "@exercise",
+        "alias": "exercise",
+        "userDefined": false
+      },
+      {
+        "text": " right from",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6c9228e-a922-48b5-a5b1-317a727badc7",
+    "data": [
+      {
+        "text": "hammer curl",
+        "meta": "@exercise",
+        "alias": "exercise",
+        "userDefined": false
+      },
+      {
+        "text": " correct form",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6e2f918-408a-43c3-8f51-f06c135d6e5b",
+    "data": [
+      {
+        "text": "how do I do a ",
+        "userDefined": false
+      },
+      {
+        "text": "pushup",
+        "meta": "@exercise",
+        "alias": "exercise",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0fb3e55a-8a15-4bf7-8e74-3e83eeaee218",
+    "data": [
+      {
+        "text": "how do I do ",
+        "userDefined": false
+      },
+      {
+        "text": "pushups",
+        "meta": "@exercise",
+        "alias": "exercise",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

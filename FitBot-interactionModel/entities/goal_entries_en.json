@@ -1,0 +1,52 @@
+[
+  {
+    "value": "hypertrophy",
+    "synonyms": [
+      "hypertrophy",
+      "bulk",
+      "put on weight",
+      "put on muscle",
+      "bodybuilding",
+      "body building"
+    ]
+  },
+  {
+    "value": "strength",
+    "synonyms": [
+      "strength",
+      "get strong",
+      "gain strength",
+      "powerlift",
+      "olympic weightlifting",
+      "powerlifting"
+    ]
+  },
+  {
+    "value": "fitness",
+    "synonyms": [
+      "fitness",
+      "health",
+      "general health",
+      "endurance"
+    ]
+  },
+  {
+    "value": "flexibility",
+    "synonyms": [
+      "flexibility",
+      "streching",
+      "range of motion"
+    ]
+  },
+  {
+    "value": "aesthetics",
+    "synonyms": [
+      "slim",
+      "lose weight",
+      "lose fat",
+      "tone",
+      "aesthetics",
+      "cut"
+    ]
+  }
+]

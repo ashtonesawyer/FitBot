@@ -1,0 +1,50 @@
+[
+  {
+    "value": "body weight",
+    "synonyms": [
+      "body weight",
+      "bodyweight",
+      "no equipment",
+      "without equipment",
+      "calisthenics",
+      "equipment free"
+    ]
+  },
+  {
+    "value": "dumbbell",
+    "synonyms": [
+      "dumbbell",
+      "dumbbells"
+    ]
+  },
+  {
+    "value": "barbell",
+    "synonyms": [
+      "barbell"
+    ]
+  },
+  {
+    "value": "kettle bell",
+    "synonyms": [
+      "kettle bell",
+      "kettlebell",
+      "kettlebells",
+      "kettle bells"
+    ]
+  },
+  {
+    "value": "pullup bar",
+    "synonyms": [
+      "pullup bar"
+    ]
+  },
+  {
+    "value": "cable",
+    "synonyms": [
+      "cable",
+      "cable machine",
+      "cable machines",
+      "cables"
+    ]
+  }
+]

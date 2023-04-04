@@ -1,0 +1,483 @@
+[
+  {
+    "id": "985171bf-5a27-4991-8ed1-a75d656c9253",
+    "data": [
+      {
+        "text": "how do i get big ",
+        "userDefined": false
+      },
+      {
+        "text": "quads",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1eefc78-8259-46df-af23-e3135b0d4dd7",
+    "data": [
+      {
+        "text": "get strong ",
+        "userDefined": false
+      },
+      {
+        "text": "shoulders",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a8bdb94a-f763-4548-a5c4-3015278a1c07",
+    "data": [
+      {
+        "text": "glute",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": false
+      },
+      {
+        "text": " exercises",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe64d28a-cac1-4419-a58f-4b04d5217b0a",
+    "data": [
+      {
+        "text": "what exercises target your ",
+        "userDefined": false
+      },
+      {
+        "text": "forearms",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "09b24c41-d543-4f7f-a245-a93588d95473",
+    "data": [
+      {
+        "text": "what targets my ",
+        "userDefined": false
+      },
+      {
+        "text": "pecs",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f4978f38-bcae-4ccc-90bf-3214ad7f5cbc",
+    "data": [
+      {
+        "text": "exercises for strong ",
+        "userDefined": false
+      },
+      {
+        "text": "lats",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dcc87141-3684-4110-bc89-ca5d30d21996",
+    "data": [
+      {
+        "text": "how to train my ",
+        "userDefined": false
+      },
+      {
+        "text": "quads",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c78ff47-46d2-47e9-a65a-e8bfb3bd7e45",
+    "data": [
+      {
+        "text": "what\u0027s good for my ",
+        "userDefined": false
+      },
+      {
+        "text": "neck",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "125b3c14-e7ab-4a57-a7e1-715610dadecf",
+    "data": [
+      {
+        "text": "good ",
+        "userDefined": false
+      },
+      {
+        "text": "hamstring",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": false
+      },
+      {
+        "text": " exercises",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8751ae6f-9ba4-4fe2-9765-49d6b37738ff",
+    "data": [
+      {
+        "text": "how do I get stronger ",
+        "userDefined": false
+      },
+      {
+        "text": "triceps",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ab87a61-7fd7-4acc-a76f-5a02bbf5f766",
+    "data": [
+      {
+        "text": "best ",
+        "userDefined": false
+      },
+      {
+        "text": "ab",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": false
+      },
+      {
+        "text": " exercises",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b4c0ce6-333b-4f47-8482-5313fb33182e",
+    "data": [
+      {
+        "text": "gimme ",
+        "userDefined": false
+      },
+      {
+        "text": "forearm",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": false
+      },
+      {
+        "text": " exercises",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c92cc441-ed0a-45eb-88e8-1924858e55c7",
+    "data": [
+      {
+        "text": "help with how to train my ",
+        "userDefined": false
+      },
+      {
+        "text": "biceps",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e1a3529e-f43b-4489-a773-64d981744c08",
+    "data": [
+      {
+        "text": "neck",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": false
+      },
+      {
+        "text": " exercises",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a9a26c48-e74b-4ae5-9ca8-c627040efc14",
+    "data": [
+      {
+        "text": "help  train my ",
+        "userDefined": false
+      },
+      {
+        "text": "lower back",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ac2fb63-0ec9-4cdb-9f1d-7c2294d9e669",
+    "data": [
+      {
+        "text": "what do i do to train my ",
+        "userDefined": false
+      },
+      {
+        "text": "abs",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bdcff805-11d5-4694-8527-c4cb38ba071c",
+    "data": [
+      {
+        "text": "i want massive ",
+        "userDefined": false
+      },
+      {
+        "text": "triceps",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "564d34d7-5dc7-4875-bd0b-388db84f47cd",
+    "data": [
+      {
+        "text": "I want stronger ",
+        "userDefined": false
+      },
+      {
+        "text": "abs",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eef36eb9-66a2-4272-a6c6-97769d1e7312",
+    "data": [
+      {
+        "text": "what are some good exercises for my ",
+        "userDefined": false
+      },
+      {
+        "text": "lower back",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6d8435f2-1e34-4e40-8157-5b10d1698a4f",
+    "data": [
+      {
+        "text": "are there good exercises for my ",
+        "userDefined": false
+      },
+      {
+        "text": "shoulders",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e7c14a2-7099-4e4b-917e-52ab1940c020",
+    "data": [
+      {
+        "text": "help me train a particular muscle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b4d25956-049a-48be-8bbc-9908a273b4ca",
+    "data": [
+      {
+        "text": "build my ",
+        "userDefined": false
+      },
+      {
+        "text": "calves",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "96d9af86-3bda-4af3-998f-1ff32bc690a5",
+    "data": [
+      {
+        "text": "how to get perfect ",
+        "userDefined": false
+      },
+      {
+        "text": "shoulders",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "214152c4-94eb-44ad-9284-ec5a11c2a253",
+    "data": [
+      {
+        "text": "what should I do it I want to train my ",
+        "userDefined": false
+      },
+      {
+        "text": "forearms",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "92055646-1898-4a56-a998-1977e3abe02a",
+    "data": [
+      {
+        "text": "What exercises targe my ",
+        "userDefined": false
+      },
+      {
+        "text": "biceps",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

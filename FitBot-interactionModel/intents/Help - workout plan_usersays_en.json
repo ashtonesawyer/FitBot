@@ -1,0 +1,179 @@
+[
+  {
+    "id": "c0a5925b-d102-4424-83c8-2e820e76baa4",
+    "data": [
+      {
+        "text": "help generate a workout plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b4434bae-f891-46b3-ab61-ccdd7337e965",
+    "data": [
+      {
+        "text": "help workout plan generator",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c540c7c4-c780-4d2c-ac24-4144572026ef",
+    "data": [
+      {
+        "text": "help give me multiple workouts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d17c1c99-9662-4a87-ad5f-d8776c079b8d",
+    "data": [
+      {
+        "text": "how do I make more than ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "userDefined": false
+      },
+      {
+        "text": " workout",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "698a1595-7938-4dc7-83fe-6ee2e8031ac2",
+    "data": [
+      {
+        "text": "help me make a workout plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "44fba341-d3cf-49e4-932d-09284bbf7f15",
+    "data": [
+      {
+        "text": "I want a workout plan. How do I get one?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "17271d7c-ce46-4178-b492-e13e1a97586c",
+    "data": [
+      {
+        "text": "how can I make a workout plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f52cd74-ef33-4f61-8bbf-ccc433c84827",
+    "data": [
+      {
+        "text": "How do I make multiple workouts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e3f4fba3-08e7-4633-8100-8d31dac40ca6",
+    "data": [
+      {
+        "text": "How do you give me a workout plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe7bead6-5362-4c37-a816-750972ac1257",
+    "data": [
+      {
+        "text": "How do I make a workout plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6da550ca-5f68-42ae-83da-bbdfd6440b36",
+    "data": [
+      {
+        "text": "help give me a workout plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cccb1eeb-86e5-4e33-a35a-858e1ec3e642",
+    "data": [
+      {
+        "text": "help make a workout plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a07767b-efed-4de7-a10f-aa212e1b6002",
+    "data": [
+      {
+        "text": "help workout plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
