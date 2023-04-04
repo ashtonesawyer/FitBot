@@ -87,8 +87,10 @@ There are 5 help intents, 1 general help and 4 intent specific helps
 * Intent Specific Help -- gives an overview of the specific intent and a phrase to get the user started using that intent
 
 # Use
-To try the bot, you can follow [this link](https://bot.dialogflow.com/35696ed9-14b6-4ba0-ba62-f2c23334ac2c). To use the code, you will have to create your own agent. 
-Upload the [FitBot-interactionModel](/FitBot-interactionModel) folder as a zip within the Dialogflow console settings and copy/upload [Fitbot-fulfillment/index.js](/FitBot-fulfillment/index.js) to the fulfillment.
+To try the bot, you can follow [this link](https://bot.dialogflow.com/35696ed9-14b6-4ba0-ba62-f2c23334ac2c). 
+
+To use the code, you will have to create your own agent. 
+Upload the [FitBot-interactionModel](/FitBot-interactionModel) folder as a zip within the Dialogflow console settings and copy/upload [Fitbot-fulfillment/index.js](/FitBot-fulfillment/index.js) to the fulfillment. You'll also need to get your own API key (see the link below). In order to add the fulfillment, you will have to connect the dialogflow agent to payment (you will be prompted to do so), but nothing will actually get charged. The API is completely free. 
 
 # Testing
 No automated tests have been written for this project. All testing has been done manually in either the Dialogflow Console or Web Demo. 
